@@ -1,3 +1,7 @@
-Briefly explain the vulnerability and why the secure version prevents the vulnerability.
-Which CIA property does tampering violate?
+Information disclosure is a type of security vulnerability where an application unintentionally reveals sensitive information that can be used by an attacker to exploit the system or compromise user data. This information can include system details, user credentials, confidential data, etc.
+
+Which CIA property does info disclosure violate?
+Information disclosure violates the Confidentiality property of the CIA triad.
+
 What additional security mechanisms can you incorporate?
+Data encryption, input validation, least privilege principle

@@ -1,2 +1,4 @@
-- Briefly explain the vulnerability and why the secure version is better at preventing repudiation than the insecure version.
+Repudiation in the context of information security refers to the ability of a user (typically an attacker) to deny having performed a specific action, making it difficult to hold them accountable for their actions. This is a threat where an attacker could manipulate or delete system logs, perform malicious activities, and then deny any involvement.
+
 - What additional security mechanisms can you incorporate to prevent such attacks?
+Log integrity, digital signatures, access controls, timestamping, etc.
